@@ -1,12 +1,11 @@
 package modulos.login.Produtos;
 
-import Paginas.FormularioDeAdicaoProdutoPage;
 import Paginas.LoginPage;
 import org.junit.jupiter.api.*;
-import org.openqa.selenium.By;
+import org.junit.jupiter.api.DisplayName;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+
 import java.time.Duration;
 
 @DisplayName( "Teste Web do Modulo de Produtos")
