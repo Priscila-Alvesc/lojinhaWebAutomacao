@@ -11,6 +11,9 @@ Recursos e linguagem: Itellij IDEA;Junit, Sellenium Web driver, Java.
 
 
 CT1: Não é Permitido Registrar Produto Com Valor Igual A Zero.
+
 CT2: Não é Permitido Registrar Produto Com Valor maior que 7000.01.
+
 CT3: Posso adicionar produtos que estejam na faixa de 0,00 até 7000.00.
+
 CT4: Posso adicionar produtos que estejam no limite de 7000.00.
